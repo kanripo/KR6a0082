@@ -1,0 +1,5 @@
+001-0901c13	TKD 19-0595b	buddhist/K-koreana/19-tif/0500-0599/19_0595_B.TIF
+001-0902a03	TKD 19-0595c	buddhist/K-koreana/19-tif/0500-0599/19_0595_C.TIF
+001-0902a22	TKD 19-0596a	buddhist/K-koreana/19-tif/0500-0599/19_0596_A.TIF
+001-0901c00	T 001-0901c	buddhist/T-taisho/T01/09/T01-0901.png
+001-0902a00	T 001-0902a	buddhist/T-taisho/T01/09/T01-0902.png
